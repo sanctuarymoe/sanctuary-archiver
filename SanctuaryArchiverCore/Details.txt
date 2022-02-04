@@ -1,0 +1,14 @@
+Name: [NAME]
+Author Name: [AUTHORNAME]
+Description:
+
+[DESC]
+
+File Name: [FILENAME]
+File SHA1 Checksum: [CHECKSUM]
+
+Tags: [TAGS]
+Store URL: [STOREURL]
+YouTube URL: [YT]
+Timestamp: [TIMESTAMP] UTC
+ID: [ID]
