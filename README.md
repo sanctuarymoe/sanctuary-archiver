@@ -3,7 +3,7 @@
 This tool will download everything on [Sanctuary](https://sanctuary.moe) onto your computer.
 Due to ongoing legal pressure, this tool can be used to archive everything on Sanctuary in the event we are taken down or we lose our hosting to the servers. 
 
-## Download [here.](https://github.com/sanctuarymoe/sanctuary-archiver/releases/download/release/sanc-download.exe)
+## Download [here.](https://github.com/sanctuarymoe/sanctuary-archiver/releases/download/v1-release/sanc-download.exe)
 
 If you're not interested using a tool, a dump of our data is available at [https://sanctuary.moe/assets/@all/json](https://sanctuary.moe/assets/@all/json), and you can use this API endpoint to download everything. Uploads have been disabled on Sanctuary.
 
