@@ -3,7 +3,7 @@
 This tool will download everything on [Sanctuary](https://sanctuary.moe) onto your computer.
 Due to ongoing legal pressure, this tool can be used to archive everything on Sanctuary in the event we are taken down or we lose our hosting to the servers. 
 
-## Download [here.] (https://github.com/sanctuarymoe/sanctuary-archiver/releases/download/release/sanc-download.exe)
+## Download [here.](https://github.com/sanctuarymoe/sanctuary-archiver/releases/download/release/sanc-download.exe)
 
 If you're not interested in using our tool, a full JSON dump of our data is available at [https://sanctuary.moe/assets/@all/json](https://sanctuary.moe/assets/@all/json)
 
@@ -14,7 +14,7 @@ Use the tool by simply double clicking the executable file, and it'll use 28 poo
 **If you want to utilize more or less threads, use the tool in a command prompt/terminal like so: `sanc-download.exe <number of threads>`.**
 For example, for 40 downloads at once: `sanc-download.exe 40`.
 
-### Note: 
+### Note
 If you restart, existing files will be overridden (or a new folder may be created), so you should probably clean the dump or copy it somewhere else before restarting again.
 
 If the executable does not work, you may need to download .NET 6 from https://dot.net (the runtime), however it should work without any depedencies.
