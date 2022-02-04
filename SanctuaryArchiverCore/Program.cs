@@ -88,7 +88,7 @@ async Task DownloadPool(int p, List<Asset> pool)
             await File.WriteAllTextAsync(textpath, CreateDetails(asset));
             await File.WriteAllTextAsync(jsonpath, JsonSerializer.Serialize(new Archived(asset), options));
 
-            Console.WriteLine("[{0}/14] ({1} of {2}) Completed: {3}", p, poolCount, curr, total, asset.Name);
+            Console.WriteLine("[{0}/{1}] ({2} of {3}) Completed: {4}", p, poolCount, curr, total, asset.Name);
             GC.Collect();
         }
         catch
